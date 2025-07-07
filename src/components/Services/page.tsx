@@ -5,10 +5,10 @@ import { RiEBikeFill } from "react-icons/ri";
 const Services = () => {
   return (
     <>
-      <div className="bg-light  flex items-center justify-center px-24">
+      <div className="bg-light  flex items-center justify-center px-10 md:px-24">
         <div className="w-full flex flex-col  max-w-7xl py-10 z-30">
           <h1 className="text-2xl font-semibold text-dark">Layanan Kami</h1>
-          <div className="grid grid-cols-3 gap-8 py-10">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 py-10">
             <div className="">
               <div className="  flex items-center justify-center">
                 <GiWashingMachine className=" text-[150px] text-dark" />
