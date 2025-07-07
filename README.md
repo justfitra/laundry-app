@@ -12,4 +12,4 @@ Website laundry modern dengan layanan antar-jemput, cuci, setrika, dan express.
 - Tailwind CSS
 
 ## Demo
-[Lihat Website](https://laundry-app.vercel.app) ← (jika sudah deploy)
+[Lihat Website](https://laundry-app-kappa.vercel.app/)
